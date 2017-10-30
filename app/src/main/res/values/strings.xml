@@ -1,0 +1,980 @@
+<resources>
+    <string name="app_name">Resep Masakan Nusantara</string>
+    <string name="app_name2">Daftar Masakan Nusantara</string>
+
+
+    \\\\Daftar Masakan///
+    <string-array name="DaftarMasakan">
+        <item>1. Gulai aceh ikan bawal khas aceh</item>
+        <item>2. Mie Kocok khas aceh</item>
+        <item>3. Roti Jala khas aceh</item>
+        <item>4. Udang asam keueung khas aceh</item>
+        <item>5. Ikan Kayu khas aceh</item>
+        <item>6. Mie Aceh simple khas aceh</item>
+        <item>7. Dep Dep teri belah dan kentang khas aceh</item>
+        <item>8. Pepes Ikan Bilis Khas Aceh</item>
+        <item>9. Ikan Keumamah khas Aceh</item>
+        <item>10. Ayam Tangkep khas Aceh</item>
+        <item>11. Pempek Adaan khas Palembang</item>
+        <item>12. Srikayo khas Palembang</item>
+        <item>13. Pindang Ikan khas Palembang</item>
+        <item>14. Mie celor khas Palembang</item>
+        <item>15. Pindang Seruni khas Palembang</item>
+        <item>16. Maksuba khas Palembang</item>
+        <item>17. Pempek Asli khas Palembang</item>
+        <item>18. Tekwan khas Palembang</item>
+        <item>19. Laksan khas Palembang</item>
+        <item>20. Burgo khas Palembang</item>
+        <item>21. Sambal Balado Ikan tempoyak khas Padang</item>
+        <item>22. Ikan Balado Pedas Manis khas Padang</item>
+        <item>23. Ayam Balado Kuah khas Padang</item>
+        <item>24. Dendeng Balado Batokok khas Padang</item>
+        <item>25. Rendang Pedas khas Padang</item>
+        <item>26. Balado Daging Suwir khas Padang</item>
+        <item>27. Balado Cumi Isi khas Padang</item>
+        <item>28. Udang saos khas Padang</item>
+        <item>29. Balado ati ampela khas Padang</item>
+        <item>30. Ikan Kembung Panggang Bumbu khas Padang</item>
+        <item>31. Karedok tanpa kacang khas Sunda</item>
+        <item>32. Soto Bandung khas Sunda</item>
+        <item>33. Seblak Ceker Sayur Super Pedas khas Sunda</item>
+        <item>34. Nasi Liwet khas Sunda</item>
+        <item>35. Pindang Ikan khas Sunda</item>
+        <item>36. Pepes Tahu Tanpa Daun khas Sunda</item>
+        <item>37. Cireng banjur isi ayam khas Sunda</item>
+        <item>38. Pepes tahu ikan asin khas Sunda</item>
+        <item>39. Pesmol ikan nila khas Sunda</item>
+        <item>40. Resep Empal Ayam Mentega khas Sunda</item>
+
+    </string-array>
+
+
+
+
+    \\\\informasi daftar masakan////
+    <string name="aceh1">
+    <b>Bahan-bahan</b>\n
+    4 porsi\n\n
+    1.	4 ekor ikan bawal\n
+    2.	3 helai daun kari\n
+    3.	5 buah cabe hijau\n
+    4.	Bahan di haluskan:\n
+    5.	3 siung bawang merah\n
+    6.	3 siung bawang putih\n
+    7.	1/2 sdt jinten bubuk\n
+    8.	1/2 sdt ketumbar bubuk\n
+    9.	1/2 cm kunyit di bakar\n
+    10.	1/2 cm jahe\n
+    11.	5 buah cabe merah\n
+    12.	10 buah cabe kecil\n
+    13.	10 buah asam sunti\n
+    14.	1 sdm Garam diet\n
+    15.	3 pack Gula Diabetasol (no calorie)\n
+    16.	2 sdm minyak jagung/minyak kedelai atas sejenis (jika buat diet)\n\n
+
+
+    <b>Langkah-langkah</b>\n
+    25menit\n\n
+    1.	Tumis bahan yang sudah di haluskan dengan minyak goreng hingga harum.\n
+    2.	Masukkan ikan bawal aduk sebentar.\n
+    3.	Beri air secukupnya, tambahkan garam, gula, cabe hijau, daun kari. Masak hingga kental dan cek rasa. Selamat mencoba.\n
+    4.	NB: Harus cukup asin, manis dan asam.</string>
+    <string name="aceh2"><b>Bahan-bahan</b>\n\n
+1.	1 kg mie kuning kiloan \n
+2.	250 gram udang kecil dan segar\n
+3.	2 liter air putih \n
+4.	7-8 butir bawang merah\n
+5.	4-5 siung bawang putih \n
+6.	4 cm jahe \n
+7.	5 buah kemiri\n
+8.	1 genggam ebi \n
+9.	1/3 sdt merica bubuk\n
+10.	3-4 lembar daun salam \n
+11.	3-4 lembar daun salam \n
+12.	3-4 lembar daun pandan \n
+13.	3-4 lembar daun jeruk \n
+14.	3-4 batang serai \n
+15.	2 ons tauge, bersihkan ekornya\n
+16.	5 butir telur ayam, rebus dan belah menjadi delapan \n
+17.	secukupnya Kecap manis \n
+18.	secukupnya Garam \n
+19.	secukupnya Gula \n
+20.	Daun Seledri secukupnya, cincang\n
+21.	4 sdm cabe rawit giling, larutkan dengan 1 gelas air\n
+22.	secukupnya Bawang goreng \n
+23.	sesuai selera Kerupuk, \n\n
+<b>Langkah-langkah</b>\n\n
+1.	Bersihkan mie dengan air bersih.\n
+2.	Masukkan mie bersih ke dalam air panas sekitar 7 menit. Angkat, lalu tiriskan.\n
+</string>
+    <string name="aceh3"><b>Bahan-bahan</b>\n
+4 porsi \n\n
+1.	150 gr Tepung terigu serbaguna \n
+2.	1 butir telur \n
+3.	300 ml santan \n
+4.	2 sdm minyak sayur\n
+5.	1/2 sdt garam \n
+6.	1/2 sdm gula pasir\n
+7.	secukupnya Margarin\n\n
+<b>Langkah-langkah</b>\n
+30 menit \n\n
+1.	Campurkan telur, santan dan minyak sayur, aduk rata.\n
+2.	Masukkan campuran tersebut ke dalam wadah yang berisi tepung terigu, masukkan gula dan garam, aduk sampai tidak ada yang menggerindil.\n
+3.	Masukkan adonan kedalam plastik segitiga, gunting ujungnya.\n
+4.	Siapkan teflon atau wajan anti lengket, panaskan dengan api kecil.\n
+5.	Semprotkan adonan keatas teflon / wajan, coret-coret membentuk semacam jaring / jala.\n
+6.	Bila sudah matang, angkat kemudian lipat dan sajikan bersama kari ayam. Selamat mencoba.\n
+</string>
+    <string name="aceh4"><b>Bahan-bahan</b>\n\n
+1.	250 gr udang segar kupas kulitnya sisakan ekornya\n
+2.	5 bh belimbing sayur dibelah 2 \n
+3.	5 bh cabe hijau dibelah 2 (atau sesuai selera)\n
+4.	3 lbr daun jeruk \n
+5.	1 tangkai daun temurui/ salam koja\n
+6.	secukupnya garam dan gula \n
+7.	secukupnya jeruk nipis dan garam utk dilumuri dgn udang \n
+8.	bumbu halus: \n
+9.	2 asam sunti (optional) \n
+10.	1 ruas jari kunyit \n
+11.	1 ruas jari jahe \n
+12.	2 siung bawang putih\n
+13.	3 butir bawang merah \n
+14.	3 bh cabe merah \n
+15.	10 bh cabe rawit \n\n
+<b>Langkah-langkah</b>\n\n
+1.	Udang yg sudah dibersihkan dilumuri dgn garam dan jeruk nipis\n
+2.	Seluruh bumbu masukkan kedalam air secukupnya, lalu masak sampai mendidih\n
+3.	Kemudian masukkan udang, memasak udang tidak usah terlalu lama krn udang cepat masak\n
+4.	Setelah udang masak koreksi rasa\n
+5.	Note: jika tidak ada sunti tambahkan lagi belimbing 2 buah\n
+</string>
+    <string name="aceh5"><b>Bahan-bahan</b>\n\n
+1.	1 ekor ikan tongkol pindang \n
+2.	5 siung bawang merah \n
+3.	3 siung bawang putih \n
+4.	10 buah cabe merah \n
+5.	3 buah asam sunti \n
+6.	secukupnya garam \n
+7.	secukupnya lada \n
+8.	secukupnya daun temurui\n
+9.	secukupnya irisan cabe hijau dan merah\n\n
+<b>Langkah-langkah</b>\n\n
+1.	Suwir suwir daging ikan tongkol, goreng dengan api kecil (harap menutup wajan saat menggoreng ikan) masak hingga matang, angkat dan tiriskan\n
+2.	Haluskan bumbu kecuali irisan cabe dan daun temuruy\n
+3.	Tumis bumbu halus hingga harum lalu masukan daun temuruy dan ikan aduk hingga bumbu meresap lalu masukan irisan cabai aduk rata. Angkat dan sajikan\n
+</string>
+    <string name="aceh6"><b>Bahan-bahan</b>\n\n
+1.	1/2 kg ikan bilis segar \n
+2.	1 buah jeruk nipis \n
+3.	secukupnya garam \n
+4.	2 sdm minyak goreng\n
+5.	Bumbu halus : \n
+6.	10 siung bawang merah\n
+7.	2 siung bawang putih \n
+8.	25 buah cabe rawit \n
+9.	20 buah asam sunti \n
+10.	1 ruas kunyit \n
+11.	1/2 sdt ketumbar\n
+12.	1/4 sdt jintan \n
+13.	Bumbu Rajang : \n
+14.	1 siung bawang merah (iris2) \n
+15.	2 buah cabe hijau (potong bundar)\n
+16.	2 buah belimbing wuluh (iris2) \n
+17.	8 lembar daun jeruk (iris kecil2)\n
+18.	1 batang sereh (iris2) \n
+19.	1 batang daun kari/koja/temurui (buang batang ambil daun saja) \n
+<b>Langkah</b>\n\n
+1.	Bersihkan ikan bilis buang kepala lalu cuci bersih,, selanjutnya beri perasan jeruk nipis dan garam.\n
+2.	Blender semua bumbu halus sampai benar2 halus.\n
+3.	Masukkan bumbu halus, bumbu rajang dan minyak goreng kedalam wadah ikan yang telah kucuri jeruk nipis dan garam, Aduk sampai rata.\n
+4.	Bungkus dengan daun pisang.\n
+5.	Kukus pepes sampai matang, ditandain dengan daun pisang yang telah layu.\n
+6.	Selanjutnya panggang agar airnya menyusut dan sedikit kering,, lebih enak panggang di atas periuk tanah.\n
+7.	Done, pepes ikan bilis siap dihidangkan.\n
+</string>
+    <string name="aceh7"><b>Bahan-bahan</b>\n\n
+1.	225 gr spaghetti \n
+2.	10 btr bakso sapi \n
+3.	250 gr daging ayam (saya tdk pakai) \n
+4.	1/4 buah kol putih (saya tdk pakai) \n
+5.	100 gr tauge (saya tdk pakai) \n
+6.	1 btr tomat ukuran sedang potong2 kecil\n
+7.	1 sachet bumbu kare instan Indofood \n
+8.	2 sdm kecap manis \n
+9.	1 sdm saos tiram \n
+10.	2 sdm minyak untuk menumis \n
+11.	2 btg daun bawang iris tipis \n
+12.	Bumbu halus : \n
+1.	3 siung bawang merah\n
+2.	3 siung bawang putih \n
+3.	5 bh cabe merah keriting \n
+4.	1/2 sdt lada \n
+5.	1/2 sdt garam \n
+<b>Langkah</b>\n\n
+1.	Rebus spaghetti hingga matang tiriskan\n
+2.	Haluskan semua bumbu halus\n
+3.	Panaskan minyak dalam wajan dan tumis bumbu halus sampai harum.\n
+4.	Masukan sayuran, bakso sapi, kemudian masukan spaghetti, aduk2 sampai bumbu merata. Kemudian masukan bumbu kare indofood, tambahkan kecap manis, garam, lada dan saos tiram aduk terus sampai semua bumbu meresap dan merata.\n
+5.	Terakhir masukan potongan Tomat dan daun bawang. Koreksi rasa, angkat dan hidangkan\n
+</string>
+    <string name="aceh8"><b>Bahan-bahan</b>\n\n
+1.	1 ons ikan teri belah \n
+2.	2 bh kentang \n
+3.	bumbu : \n
+4.	6 bh cabai merah\n
+5.	5 bh cabai rawit \n
+6.	4 siung bawang merah\n
+7.	1/2 siung bawang putih\n
+8.	5 bh asam sunti (belimbing wuluh yg sdh dikeringkan) \n
+9.	3 bh cabai hijau iris \n
+10.	sedikit kunyit \n
+11.	garam \n
+12.	asam jeruk \n
+13.	pati santan \n
+<b>Langkah</b>\n\n
+1.	Belah teri buang duri dan kotorannya..rendam di air..agar lunak..cuci bersih.peraskan asam jeruk di teri nya dan garam sedikit\n
+2.	Potong kentang sesuai selerah.cuci..\n
+3.	Haluskan bumbu kecuali daun kari dan cabai hijau..\n
+4.	Panaskan kuali tumis bumbu hingga harum,masukkan daun kari masukkan kentang dan teri beri sedikit air utk proses masak kentangnya..\n
+5.	Setelah kentang masak.masukkan cabai hijau irisnya.beri santan kental.beri garam,koreksi rasanya.\n
+6.	Setelah kuah agak semek semek angkat..sajikan.\n
+</string>
+    <string name="aceh9"><b>Bahan-bahan</b>\n\n
+1.	Bahan Halus: \n
+2.	5 siung bawang merah\n
+3.	3 siung bawang putih \n
+4.	7 bh cabe merah \n
+5.	20 bh cabe rawit (bs dkurangin bagi yg ga suka pedes) \n
+6.	2 cm jahe \n
+7.	1 sdm ketumbar \n
+8.	15 bh asam sunti \n
+9.	Bahan Lainnya: \n
+10.	1 kg ikan tongkol (kira2 3ekor ikan tongkol besar/ 5 ekor yg kecil)
+11.	Secukupnya garam
+12.	7 btg daun belimbing wuluh
+13.	7 bh cabe ijo
+14.	4 bh jeruk nipis
+15.	4 bh kentang
+16.	5 lbr daun salam
+17.	7 lbr daun jeruk
+18.	Secukupnya minyak goreng
+19.	500 ml santan
+Langkah
+1.	Pembuatan ikan keumamahnya: ikan tongkol d bersihkan. Lalu campurkan garam dan jeruk nipis. Diamkan selama 15 menit. Lalu, rebus ikan dg daun belimbing wuluh kurang lebih 30 menit. Setelah itu ditiriskan lalu dijemur selama seharian. Ikan keumamah dpt dsimpan d kulkas dg dbungkus koran terlebih dlu.
+2.	Masak ikan keumamahnya: suir2 ikan keumamahnya dan rendam dalam air dingin slma 5 menit. Lalu haluskan bumbu halus.
+3.	Panaskan kuali, masukkan minyak goreng secukupnya. Masukkan irisan bawang merah, tggu sampai warna agak kecoklatan lalu masukkan bumbu halus, daun salam dan daun jeruk. Setelah harum, masukkan ikan keumamah yg sdh dsuir2. Aduk2 sampai bumbu meresap.
+4.	Setelah agak kering, masukkan santan, kentang yg sudah diiris tipis dan cabe ijo yg sudah d potong serong kasar(atau boleh juga d potong sesuai selera)
+5.	Aduk2 sampai agak mengering. Koreksi rasa. Lalu buang daun salam dan daun jeruk (kalo mau d hidang jg bole). Dan Sajikan.
+</string>
+    <string name="aceh10"><b>Bahan-bahan</b>\n\n
+4 porsi \n
+1.	1 ekor ayam \n
+2.	500 ml air \n
+3.	4 lembar daun pandan \n
+4.	8 lembar daun salam \n
+5.	1 sdm air asem jawa \n
+6.	merica \n
+7.	garam \n
+8.	kaldu bubuk \n
+9.	bumbu halus \n
+10.	8 bawang merah \n
+11.	5 bawang putih \n
+12.	4 cm kunyit bakar \n
+13.	5 cm jahe \n
+14.	6 cabbe rawit(optional) \n
+15.	bumbu pengharum \n
+16.	4 lembar daun pandan,diiris \n
+17.	6 daun jeruk,diiris \n
+18.	4 daun salam,diiris \n
+19.	2 cabe ijo,belah 2 memanjang \n
+<b>Langkah</b>\n\n
+1.	Panaskan wajan,masukkan minyak,tumis bumbu halus hingga matang,masukan ayam juga daun pandan dan salam,aduk hingga berubah warna,tuangkan air,ungkep,hingga bumbu meresap dan air kering.\n
+2.	Panaskan wajan,beri minyak,masukkan bumbu pengharum mask hingga layu dan kering,lalu goreng ayamnya,tidak perlu sampai kering,cukup sampai berkulit saja,angkat dan sajikan..selamat mencoba\n
+</string>
+
+    <string name="padang1"><b>Bahan-bahan</b>\n
+5-6 orang \n
+1.	1 kg ikan kembung sate \n
+2.	5 siung bawang merah \n
+3.	3 siung bawang putih \n
+4.	1 buah tomat \n
+5.	5 buah cabe merah \n
+6.	8 buah cabe rawit \n
+7.	secukupnya gula aren \n
+8.	secukupnya gula putih \n
+9.	secukupnya tempoyak (duren fermentasi) \n
+10.	garam \n
+11.	masako \n
+<b>Langkah</b>\n\n
+1.	Goreng kering ikan kembung sate yang telah dibumbui.\n
+2.	Kemudian setelah digoreng, kita siapkan bahan2 untuk sambalnya.\n
+3.	Haluskan bawang merah, putih, cabe, tomat, boleh menggunakan blender, bisa juga di uleg. Tergantung selera.\n
+4.	Kemudian siapkan minyak panas, tumis semua bumbu, sampai tercium wangi.\n
+5.	Masukkan air sedikittt saja, cicipi sambal, tambahkan gula aren, gula putih secukupnya, garam, dan masako. Jangan lupa masukkan tenpoyak.\n
+6.	Kemudian masukkan ikan yg telah digoreng.\n
+7.	Aduk sambal sampai tercampur dengan rata.\n
+8.	Taraaaa..Sambal balado ikan dengan tempoyak sudah siap untuk dihidangkan.\n
+9.	Jangan lupa untuk me-re-cook yaa para pembaca. Terimakasih.\n
+</string>
+    <string name="padang2"><b>Bahan-bahan</b>\n\n
+1.	4 ikan segar \n
+2.	8 cabe rawit (bagi yang suka pedes) \n
+3.	4 cabe kriting \n
+4.	1 tomat \n
+5.	2 siung bawang putih \n
+6.	2 siung bawang merah \n
+7.	garam dan gula (penyedap rasa bila perlu) \n
+<b>Langkah</b>\n\n
+1.	Bersihkan ikan sampe bersih\n
+2.	Haluskan semua bumbu diatas sampe halus\n
+3.	Masukan bumbu yang sudah dihaluskan ke wajan dan diberi air secukupnya\n
+4.	Masukan ikan dan beri penyedap rasa bila perlu\n
+5.	Tunggu hingga bumbu meresap dan ikannya matang\n
+6.	Silahkan disajikan dimeja dan siap dinikmati\n
+</string>
+    <string name="padang3"><b>Bahan-bahan</b>\n\n
+1.	Ayam \n
+2.	bahan tambahan : Tempe \n
+3.	bumbu iris : \n
+4.	bawang merah \n
+5.	bawang putih \n
+6.	cabe rawit \n
+7.	cabe keriting \n
+8.	tomat \n
+9.	jahe \n
+10.	lengkuas \n
+11.	daun bawang \n
+12.	garam \n
+13.	gula \n
+14.	royko \n
+15.	bumbu ungkep ayam : \n
+16.	bawang putih \n
+17.	ketumbar \n
+18.	garam \n
+<b>Langkah</b>\n\n
+1.	Ayam diungkep dengan bumbu ungkep sampai empuk\n
+2.	Tumis bumbu iris sampai harum dan layu. Masukkan ayam yang sudah di ungkep. Beri air secukupnya. Aduk hingga tercampur merata\n
+3.	Masukkan tempe (bila diberi tambahan tempe) beri garam dan gula secukupnya. Koreksi rasa. Hidangkan\n
+</string>
+    <string name="padang4"><b>Bahan-bahan</b>\n\n
+1/2kg \n
+1.	1/2 kg daging sapi segar \n
+2.	175 gram cabai merah keriting \n
+3.	2 buah tomat uk kecil \n
+4.	5 siung bwg putih ukuran besar \n
+5.	5 siung bwg merah ukuran besar \n
+6.	1 sdt gula \n
+7.	2 sdt garam \n
+8.	secukupnya minyak sayur \n
+<b>Langkah</b>\n\n
+30 menit \n
+1.	Cuci bersih daging sapi, rebus dan berikan 1 sdt garam. rebus hingga benar-benar matang.\n
+2.	Setelah matang angkat, lalu potong dadu lalu ketuk hingga pipih. sisihkan.\n
+3.	Panasnya minyak sayur dengan api sedang goreng daging sapi yang telah dipipihkan tadi hingga berubah warna. hingga daging habis. setelah matang angkat dan sisihkan.\n
+4.	Sementara menggoreng daging tadi. kita cuci bersih cabai merah, tomat dan bawang2 an. lalu sisihkan.\n
+5.	Selanjutnya kita goreng cabai, tomat dan bawang2 an. setelah stengah matang angkat. lalu ulek kasar dengan ulekan.\n
+6.	Setelah kita ulek kasar. kita goreng kembali. tambahkan 1 sdt gula dan 1 sdt garam. hingga matang, setelah cabai merah matang masukkan daging sapi tadi. aduk rata lalu matikan api. letakkan di piring saji dan siap kita santap.\n
+</string>
+    <string name="padang5"><b>Bahan-bahan</b>\n\n
+        20 potong \n
+1.	1500 ml santan kental dari 2 butir kelapa (pilih kelapa yg tua) \n
+2.	1 kg daging sapi segar tanpa lemak \n
+3.	3 sdm kelapa parut yg disangrai lalu dihaluskan \n
+4.	Bumbu yang dihaluskan: \n
+5.	200 gr cabe merah keriting \n
+6.	50 gr cabe rawit merah \n
+7.	12 butir bawang merah \n
+8.	4 siung bawang putih \n
+9.	1 ruas jahe \n
+10.	2 ruas lengkuas \n
+11.	Bumbu lain : \n
+12.	8 butir bawang merah dirajang halus \n
+13.	3 buah kapulaga \n
+14.	1/2 bunga lawang \n
+15.	4 buah cengkeh \n
+16.	1 sdt lada bubuk \n
+17.	1 buah asam kandis \n
+18.	2 lembar salam \n
+19.	1 lembar daun kunyit \n
+20.	4 lembar daun jeruk \n
+21.	2 batang serai digeprek \n
+22.	secukupnya garam \n
+23.	seruas jari gula merah bila suka (saya tidak pakai) \n
+24.	1 sdm minyak goreng untuk campuran \n
+<b>Langkah</b>\n\n
+1,5 jam \n
+1.	Bersihkan daging, potong sesuai selera (potong kotak atau lebar tipis)\n
+2.	Lalu campur daging dan bumbu halus dalam wajan. Aduk rata dan tambahkan 1 sdm minyak goreng. Diamkan selama 15 menit agar bumbu meresap.\n
+3.	Masak dengan api kecil hingga harum dan daging berubah warna. Tambahkan daun-daun bumbu\n
+4.	Tambahkan santan kental sedikit demi sedikit. Masak hingga mengental. Tambahkan garam dan bawang merah rajang.\n
+5.	Setelah kental tambahkan kelapa sangrai. Koreksi rasa. Masak hingga matang dan kering. Angkat dan sajikan..\n
+</string>
+    <string name="padang6"><b>Bahan-bahan</b>\n\n
+4 porsi \n
+1.	250 gram daging sapi tanpa otot \n
+2.	1 sdm gula merah \n
+3.	1/2 sdt pala bubuk \n
+4.	1 buah cabai merah besar iris serong \n
+5.	secukupnya air dan minyak goreng \n
+6.	secukupnya gula, garam, lada dan penyedap rasa \n
+7.	bumbu halus: \n
+8.	7 siung bawang merah \n
+9.	4 siung bawang putih \n
+10.	25 buah cabai keriting \n
+11.	10 buah rawit merah \n
+<b>Langkah</b>\n\n
+1.	Cuci daging hingga bersih, potong2 sesuai selera. Kemudian taburi garam dan lada, lalu diamkan selama 10 menit biar meresap. Setelah itu rebus daging selama 30 menit dengan api kecil.\n
+2.	Setelah matang, angkat dan tiriskan daging sampai tidak ada air rebusan lagi. Panaskan api, lalu goreng daging sampai berwarna kecoklatan (jangan sampai kering).\n
+3.	Suwir daging yang sudah digoreng sesuai selera.\n
+4.	Ulek atau blender bumbu. Kemudian tumis. Masukkan gula merah dan air asam lalau masukkan daging. Beri sedikit air dan tambahkan garam cs. Koreksi rasa lalu taburi dengan irisan cabai merah besar. Masak hingga bumbu meresap.\n
+5.	Sajikan daging bersama nasi uduk atau nasi kuning lebih mantap. Selamat mencoba\n
+</string>
+    <string name="padang7"><b>Bahan-bahan</b>\n\n
+1.	500 gr cumi ukuran sedang \n
+2.	100 gr cabe merah keriting \n
+3.	50 gr rawit gendut \n
+4.	4 siung baput \n
+5.	4 siung bamer \n
+6.	1 sdm gula pasir \n
+7.	1/2 sdt garam \n
+8.	2 butir telur ayam \n
+9.	2 tahu \n
+10.	1 Batang daun bawang \n
+<b>Langkah</b>\n\n
+1.	Buat isiannya dl yaa : tahu, telur, daun bawang d rajang halus, garam dan lada bubuk d campur dan d hancurkan pakai garpu lalu di tumis sebentar\n
+2.	Siapkan cuminya lalu di isi pakai isian yg sudah d tumis trus d tusuk pakai tusuk gigi\n
+3.	Lalu blender : cabe-cabean dan bawang-bawangan\n
+4.	Tumis bumbu halus tambahkan garam dan gula lalu sudah matang masukan cumi yg sudah di isi\n
+5.	Masak sampai matang..\n
+6.	Note: ga perlu d Kasih air karna nanti cumi akan mengeluarkan air sendiri jd agak berair\n
+</string>
+    <string name="padang8"><b>Bahan-bahan</b>\n\n
+1.	Udang\n
+2.	4 siung bawang merah \n
+3.	3 siung bawang putih \n
+4.	Seruas jahe \n
+5.	secukupnya Daun bawang \n
+6.	1 batang sereh \n
+7.	secukupnya Cabe rawit \n
+8.	secukupnya Cabe ijo \n
+9.	1 buah tomat \n
+10.	2 sdm saus cabe \n
+11.	1 sdm saus tiram \n
+12.	1 sdm kecap manis \n
+13.	1 sdm jeruk nipis \n
+14.	Garam, gula, peyedap rasa, minyak goreng \n
+<b>Langkah</b>\n\n
+1.	Kupas udang hinga bersih dan beri perasan jeruk nipis diamkan 5mnt lalu cuci bersih\n
+2.	Iris semua bahan kecuali jahe (geprek)..lalu tumis bawang merah hingga kecoklatan lalu masukan bawang putih cabai,tomat, jahe, sereh,dan semua bahan hingga harum\n
+3.	Masukan udang koleh2 tambahkan air sedikit..diam kan hingga air menyusut dan koreksi rasa\n
+4.	Angkat lalu siap di hidangkan\n
+</string>
+    <string name="padang9"><b>Bahan-bahan</b>\n\n
+1.	1/4 ati ampela.bersihkan \n
+2.	sereh.salam.daun jeruk \n
+3.	secukupnya minyk \n
+4.	secukupnya sasa dan garam \n
+5.	1 sdt gulpas \n
+6.	bumbu halus \n
+7.	1 genggam cabe kriting.rebus \n
+8.	7 bm.rebus \n
+9.	3 bp.rebus \n
+10.	1 tomat.rebus \n
+11.	1 ruas jhe dan kunyit \n
+<b>Langkah</b>\n\n
+1.	Goreng ati ampela\n
+2.	Tumis bumbu halus tambahkan.sereh.salam daun jrk.gulpas.sasa dan garam\n
+3.	Masukkan ati ampela dan biarkan benar2 tanak.\n
+4.	Angkat dan sajikan\n
+</string>
+    <string name="padang10"><b>Bahan-bahan</b>\n\n
+1.	5 ekor ikan kembung\n
+2.	1 buah jeruk nipis \n
+3.	1 tangkai serai, geprek \n
+4.	5 lembar daun jeruk, buang tulangnya \n
+5.	1 lembar daun kunyit (sy skip, krna gada) \n
+6.	70-90 ml santan instan \n
+7.	gula, garam \n
+8.	Bumbu Halus : \n
+9.	8 siung bw.merah \n
+10.	2 siung bw.putih \n
+11.	8 buah cabe merah (sesuai selera) \n
+12.	1 ruas jahe \n
+13.	1 ruas lengkuas \n
+14.	1 ruas kunyit \n
+<b>Langkah</b>\n\n
+1.	Bersihkan ikan, sy potong kepala dan ekor untuk menyesuaikan dengan ukuran teflon saat memanggang\n
+2.	Lumuri ikan dengan jeruk nipis dan sedikit garam..biarkan kurang lebih 15-30mnt\n
+3.	Tumis bumbu halus, serai, daun jeruk, dan daun kunyit hingga wangi, lalu tuang dengan air secukupnya.\n
+4.	Jika air sudah mendidih, masukan santan. Aduk-aduk hingga merata dan tambahkan gula garam sesuai selera, lalu masukan ikan. Masak dengan api kecil agar kuah tdk cepat kering.\n
+5.	Aduk sesekali, dan balikan ikan pelan-pelan dan usahakan hanya membalikan 1x agar daging ikan tidak hancur.\n
+6.	Jika ikan sudah matang dan kuah menyusut, panggang ikan di atas teflon / bara hingga kering. Lumuri ikan dengan sisa kuah pada saat proses memanggang.\n
+7.	Selesai\n
+</string>
+
+    <string name="jawabarat1"><b>Bahan-bahan</b>\n\n
+1 porsi \n
+1.	7 buah kacang pnjang \n
+2.	1/2 potong b.putih \n
+3.	1/2 jari kencur \n
+4.	3 buah cabe rawit merah \n
+5.	garam decukupnya \n
+6.	7 buah kacang pnjang \n
+7.	1/2 potong b.putih \n
+8.	1/2 jari kencur \n
+9.	3 buah cabe rawit merah \n
+10.	garam decukupnya \n
+11.	7 buah kacang pnjang \n
+12.	1/2 potong b.putih \n
+13.	1/2 jari kencur \n
+14.	3 buah cabe rawit merah \n
+15.	garam decukupnya \n
+<b>Langkah</b>\n\n
+1.	Iris"kacang panjang kecil" atau sesuai selera\n
+2.	Ulek semua bumbu hingga halus.\n
+3.	Masukan kacang yg udh d iris dan d cuci bersih.\n
+4.	Ulek kacang hingga tidak terlalu hancur.\n
+5.	Kemudian sajikan.. Enak bila di temani dengan ikan asin. Dan nasi timbel\n
+6.	Ulek semua bumbu hingga halus.\n
+7.	Masukan kacang yg udh d iris dan d cuci bersih.\n
+8.	Ulek kacang hingga tidak terlalu hancur.\n
+9.	Kemudian sajikan.. Enak bila di temani dengan ikan asin. Dan nasi timbel\n
+10.	Ulek semua bumbu hingga halus.\n
+11.	Masukan kacang yg udh d iris dan d cuci bersih.\n
+12.	Ulek kacang hingga tidak terlalu hancur.\n
+13.	Kemudian sajikan.. Enak bila di temani dengan ikan asin. Dan nasi timbel\n
+</string>
+    <string name="jawabarat2"><b>Bahan-bahan</b>\n\n
+1.	250 gr daging sapi \n
+2.	250 gr tetelan sapi \n
+3.	3 bh lobak \n
+4.	100 gr Kacang kedelai \n
+5.	Bumbu halus : \n
+6.	7 siung bawang merah \n
+7.	5 siung bawang putih \n
+8.	1 ruas jahe digeprek \n
+9.	1 ruas lengkuas digeprek \n
+10.	1 btg serai digeprek \n
+11.	3 lbr daun salam \n
+12.	3 lbr daun jeruk \n
+13.	secukupnya Garam \n
+14.	secukupnya Gula pasir \n
+15.	secukupnya merica bubuk \n
+16.	secukupnya Kaldu bubuk \n
+17.	2 sdm ebi dihaluskan \n
+18.	1 btg daun bawang \n
+19.	1 btg seledri \n
+20.	jeruk nipis \n
+21.	secukupnya Bawang goreng \n
+22.	Kecap manis \n
+23.	500 ml Air kaldu sapi \n
+24.	Minyak untuk menumis \n
+<b>Langkah</b>\n\n
+1.	Cuci bersih daging sapi dan tetelan, rebus dg air selama 10menit, lalu buang airnya\n
+2.	Rebus kembali daging sapi dan tetelan dg air baru hingga daging empuk. Angkat dan tiriskan, jgn dibuang air rebusan utk air kaldu\n
+3.	Haluskan bumbu halus, lalu tumis dg minyak hingga harum\n
+4.	Masukan jahe, lengkuas, serai yg telah digeprek, daun salam dan daun jeruk\n
+5.	Masukan air kaldu sapi biarkan hingga mendidih\n
+6.	Cuci dan potong lobak sesuai selera, kemudian masukan ke dlm panci\n
+7.	Masukan daging dan tetelan sapi\n
+8.	Masukan garam, gula pasir, kaldu bubuk, merica dan daun bawang, aduk hingga merata\n
+9.	Masukan ebi yg sdh dihaluskan\n
+10.	Kacang kedelai yg sdh digoreng, daun seledri, bawang goreng, jeruk nipis dan kecap manis disiapkan terpisah dan dimasukan sesuai selera ke dlm soto yg siap disajikan\n
+</string>
+    <string name="jawabarat3"><b>Bahan-bahan</b>\n\n
+1.	1/4 ceker ayam \n
+2.	150 g kerupuk udang \n
+3.	200 g jamur tiram \n
+4.	1 wortel \n
+5.	Bumbu Halus: \n
+6.	8 cabe rawit merah \n
+7.	secukupnya Gula merah \n
+8.	5 bawang merah \n
+9.	5 bawang putih \n
+10.	1 kuku jempol kencur \n
+11.	1/2 sdt merica \n
+12.	1/2 sdm garam \n
+13.	1 sdt kaldu bubuk \n
+14.	2 cabe merah besar potong serong \n
+15.	500 ml air kaldu rebusan ceker \n
+16.	500 ml air \n
+17.	1 sdm kecap manis \n
+18.	2 sdm saus \n
+<b>Langkah</b>\n\n
+1.	Rebus ceker hingga empuk, sisihkan sebagian kuah kaldu hasil rebusan. Rebus krupuk udang hingga lentur, sisihkan.\n
+2.	Tumis bumbu halus dengan 1 sdm minyak hingga harum, masukkan air dan sisa kaldu rebusan ceker. Masukkan semua bahan, tunggu hingga mendidih.\n
+</string>
+    <string name="jawabarat4"><b>Bahan-bahan</b>\n\n
+5 porsi \n
+1.	3 cup beras \n
+2.	1 btg serai \n
+3.	8 siung bawang merah (rajang) \n
+4.	2 lbr daun salam \n
+5.	2 bh cabe hijau \n
+6.	2 bh cabe merah (kebetulan pas abis) \n
+7.	100 gr ikan teri \n
+8.	Secukupnya garam \n
+9.	Air \n
+<b>Langkah</b>\n\n
+30 menit \n
+1.	Cuci beras, dan masukkan ke dlm rice cooker, tambahkan air spt biasanya memasak nasi.\n
+2.	Masukkan serai, daun salam, dan separuh bawang merah. Tekan tombol cook.\n
+3.	Goreng ikan teri, sisihkan. Minyak sisa goreng teri gunakan utk menumis sisa bawang merah, dan cabe merah atau hijau.\n
+4.	Setelah 10 menit, aduk nasi pd rice cooker, tuang tumisan bawang dan cabe, masukkan ikan teri, tambahkan garam secukupnya.\n
+5.	Biarkan nasi matang, dan siap disajikan dgn lauk sesuai selera.\n
+</string>
+    <string name="jawabarat5"><b>Bahan-bahan</b>\n\n
+1.	8 ekor ikan nilem, cuci bersih (lebih enak pakai ikan mas) \n
+2.	4 lembar daun salam \n
+3.	2 batang sereh \n
+4.	1 buah tomat \n
+5.	4 biji asam jawa (larutkan dg air) \n
+6.	2 cm jahe, geprek \n
+7.	2 cm lengkuas, geprek \n
+8.	air secukupnya (sampai semua ikan terendam air) \n
+9.	1 gandu gula merah \n
+10.	3 sdm kecap \n
+11.	2 sdt garam \n
+12.	bumbu halus \n
+13.	9 buah bawang merah \n
+14.	7 buah bawang putih \n
+15.	5 buah kemiri \n
+16.	2 cm kunyit \n
+17.	1 sdt ketumbar (tambahan dari saya) \n
+<b>Langkah</b>\n\n
+1.	Supaya Ikannya tidak hancur saya goreng dulu sebentar sampai setengah matang.\n
+2.	Tumis bumbu halus, daun salam, sereh, jahe dan lengkuas hingga harum. kemudian masukan air secukupnya(dikira-kira sampai ikan bisa terendam semua nya), lalu masukan air asam jawa, gula merah, kecap, garam. koreksi rasa dan setelah tercampur semua bahan bumbunya, masukan ikan dan irisan tomat. Tutup ikan sampai airnya berkurang dan meresap.\n
+3.	Setelah air menyusut dan bumbu meresap ke ikan. pindang ikan siap disajikan.\n
+</string>
+    <string name="jawabarat6"><b>Bahan-bahan</b>\n\n
+1.	5 buah tahu kuning \n
+2.	2 butir telur \n
+3.	2 butir bawang putih haluskan \n
+4.	1/2 sdt lada \n
+5.	1/4 sdt pala bubuk \n
+6.	1/2 sdt kaldu bubuk \n
+7.	1 sdt garam \n
+8.	1 daun bawang iris tipis \n
+9.	1/2 buah wortel besar parut \n
+<b>Langkah</b>\n\n
+1.	Lumatkan tahu dengan garpu\n
+2.	Campurkan telur, semua bumbu dan sayuran ke tahu yang sudah dilumatkan\n
+3.	Panaskan kukusan, masukkan adonan ke dalam loyang, kukus sampai matang\n
+4.	Potong sesuai selera\n
+</string>
+    <string name="jawabarat7"><b>Bahan-bahan</b>\n\n
+2 porsi \n
+1.	2 cup Tepung Tapioka \n
+2.	1 cup Tepung Terigu \n
+3.	secukupnya Air \n
+4.	Secukupnya minyak goreng \n
+5.	1 sdm saus tomat delmonte \n
+6.	secukupnya Daging ayam suir \n
+7.	1 buah bawang putih iris tipis \n
+8.	2 buah cabe rawit \n
+9.	1 buah jeruk nipis \n
+10.	2 buah bawang daun \n
+<b>Langkah</b>\n\n
+30menit \n
+1.	Uleni tepung tapioka dan tepung terigu dgn menambahkan air, hingga kalis dan tdk menempel ditangan\n
+2.	Masukan isian daging ayam kedalam cireng. Goreng sebentar pada minyak panas. Tiriskan\n
+3.	Tumis bawang putih dan cabe rawit, tambahkan saus tomat, garam dan gula secukupnya. Tambahkan segelas air hangat, tunggu hingga mendidih. Koreksi rasa. Siram dgn cireng. Tambahkan bawang daun dan jeruk purut\n
+</string>
+    <string name="jawabarat8"><b>Bahan-bahan</b>\n\n
+1.	2 kotak tahu putih \n
+2.	2 ekor ikan asin \n
+3.	3 buah cabe merah besar \n
+4.	5 siung baput \n
+5.	5 buah bamer \n
+6.	1 ruas jari lengkuas \n
+7.	2 lembar daun jeruk \n
+8.	2 biji kemiri \n
+9.	cabe rawit sesuai selera (me: 15 biji) \n
+10.	1 butir telur \n
+11.	secukupnya daun bawang \n
+12.	sesuai selera garam, gula, kaldu bubuk \n
+<b>Langkah</b>\n\n
+1.	Kukus tahu, kurleb 15mnt, angkat lalu lumatkan dg garpu\n
+2.	Rendam ikan asin dg air hangat, kurleb 5mnt, tiriskan pisahkan dr tulangnya lalu potong kecil kecil.\n
+3.	Haluskan bumbu, bamer,baput,lengkuas,kemiri,cabe merah,cabe rawit\n
+4.	iris tipis daun jeruk + daun bawang\n
+5.	Campurkan tahu + ikan asin ke dalam bumbu halus, tambahkan telur, aduk rata, masukan daun jeruk dan daun bawang, aduk rata, koreksi rasa\n
+6.	 Bungkus di daun pisang tambahkan cabe rawit utuh di atasnya.\n
+7.	 Kukus kurang lebih 30 menit.\n
+8.	 Sajikan \n
+</string>
+    <string name="jawabarat9"><b>Bahan-bahan</b>\n\n
+1.	2 ekor nila ukuran besar \n
+2.	1 jeruk nipis \n
+3.	1 tomat \n
+4.	10 cabe rawit \n
+5.	Daun bawang \n
+6.	Garam \n
+7.	Gula \n
+8.	Minyak \n
+9.	350 ml Air \n
+10.	Bumbu Halus \n
+11.	3 cabe merah \n
+12.	5 bawang merah \n
+13.	3 bawang putih \n
+14.	2 cm jahe \n
+15.	2 cm kunyit \n
+<b>Langkah</b>\n\n
+1.	Lumuri ikan nila dengan garam dan perasan jeruk nipis..tunggu 15 menit agar bumbu meresap\n
+2.	Panaskan minyak, goreng ikan nila sampai kuning kecoklatan angkat dan tiriskan\n
+3.	Panaskan minyak untuk menumis bumbu halus..goreng sampai bumbu matang\n
+4.	Tambahkan air, tomat, cabe rawit, daun bawang garam dan gula..cek rasa\n
+5.	Tambahkan nila yg telah di goreng tumis sampai bumbu meresap\n
+6.	Angkat dan tiriskan\n
+</string>
+    <string name="jawabarat10"><b>Bahan-bahan</b>\n\n
+4 potong ayam\n
+2 sendok tepung bumbu sasa rasa original\n
+1 sdm mentega\n
+
+Cara membuat:\n
+1. Ayam fillet lalu haluskan. \n
+2. Di wajan, cairkan mentega dengan menggunakan api kecil.\n
+3. Di wadah, masukkan semua bahan dan aduk rata.Tidak perlu menambahkan garam, gula, atau sasa karena sudah ada di tepung bumbu.\n
+4. Goreng adonan dengan api kecil hingga berwarna kuning keemasan. \n
+</string>
+
+    <string name="palembang1"><b>Bahan-bahan</b>\n\n
+1.	2 Butir telur \n
+2.	1 kg daging ikan tenggiri (giling halus) \n
+3.	1/4 kg bawang merah giling halus / kasar (selera) \n
+4.	1 bh bawang bombay cincang halus \n
+5.	600 gr sagu tani \n
+6.	100 gr tepung terigu \n
+7.	700 gr sagu tani (PILIH) jadi bisa 600+100diatas / 700 sagu tani \n
+8.	1 sdm garam dan gula (aku lebih, selera) \n
+9.	3-5 batang daun bawang (boleh skip tp lebih sedep pake) \n
+10.	250 ml santan kental \n
+<b>Langkah</b>\n\n
+60 menit \n
+1.	Campurkan jadi satu bawang merah,bawang bombay,telur,garam dan gula aku garem nya 1-2sdm sih suka asin\n
+2.	Masukkan ikan dan santan\n
+3.	Aduk menggunakan tangan secara perlahan (jangan terlalu di aduk,asal rata saja)\n
+4.	Tambahkan sagu dan tepung terigu perlahan lahan sambil mengaduk (kalau bisa usahakan benar2 sagu tani asli yah..terkadang ada sagu yg ga bagus jadi berpengaruh ke rasa)\n
+5.	Terakhir, buat bentuk pempek (seperti membulatkan bakso) menggunakan tangan dan sendok digenggam di telapak tangan,di keluarkan lewat sela-sela ibu jari dan jari telunjuk lalu langsung di goreng di minyak panas dengan api yang kecil saja\n
+6.	Tips agar pempek tidak kempes dan keriput. pastikan api benar2 panas, setelah itu api kecil saja. (deep fry ya, minyak nya banyak sampe si pempek tenggelem) nah yang udah mengapung artinya udh matang langsung angkat. jangan terlalu lama\n
+</string>
+    <string name="palembang2"><b>Bahan-bahan</b>\n\n
+1.	3 butir telur bebek (actually, yg origin nya pake telur ayam, cm saya lebih prefer pake telur bebek walau agak amis) \n
+2.	1 gelas gula (telur dipecahkan masukkan ke gelas = 1 gelas, maka gulanya seukuran sm telur nya) \n
+3.	1 gelas santan (saya pake santan bubuk 1/2 sachet, larutkan dalam 1 gelas air \n
+4.	Pandan yang diparut dan disaring airnya (kebetulan susah cari pandan, jd pakai pasta pandan) \n
+5.	secukupnya Garam \n
+<b>Langkah</b>\n\n
+1.	Panaskan pengukus yang tutupnya dilapisi kain (biar uap air tidak menetes), agar jika adonan sudah jadi, bisa langsung dimasukkan di pengukus yg sudah panas\n
+2.	Kocok telur dan gula dengan pengocok telur sampe gula larut semua\n
+3.	Masukkan santan, aduk hingga rata\n
+4.	Masukkan pasta pandan secukupnya sampe kehijauan (jika pakai pasta)\n
+5.	Tambahkan garam secukup nya, aduk rata\n
+6.	Tuang adonan ke cetakan plastik (kl orang palembang biasanya pake cetakan keramik kecil bgt, atau cetakan srikayo warna merah yg ukuran nya jg kecil)\n
+7.	Kukus 10-15 menit\n
+8.	Angkat dan dinginkan di kulkas\n
+9.	Catatan: sangat penting menjaga kualitas santan. Santan yang tidak bagus (basi) akan menghasilkan stikayo yg basi pula.\n
+</string>
+    <string name="palembang3"><b>Bahan-bahan</b>\n\n
+1.	1 ekor ikan patin \n
+2.	1 ikat daun kemangi, potong \n
+3.	1 batang daun bawang, potong \n
+4.	8 cabe rawit, biarkan utuh \n
+5.	sedikit potongan kecil nanas \n
+6.	bumbu dihaluskan : \n
+7.	7 siung bawang merah \n
+8.	4 siung bawang putih \n
+9.	1 ruas kunyit \n
+10.	1 ruas jahe \n
+11.	4 buah cabe merah keriting \n
+12.	bumbu digeprek : \n
+13.	1 ruas lengkuas \n
+14.	3 lembar daun jeruk \n
+15.	3 lembar daun salam \n
+16.	1 batang sereh \n
+17.	bumbu pelengkap : \n
+18.	secukupnya air, gula, garam \n
+<b>Langkah</b>\n\n
+1.	Potong ikan menjadi beberapa bagian. Cuci bersih.\n
+2.	Rebus air dalam panci. Sambil menunggu air mendidih, tumis bumbu halus dan bumbu geprek sampai wangi dan matang.\n
+3.	Masukkan tumisan bumbu, gula dan garam kedalam rebusan air. Masukkan ikan patin, masak sebentar.\n
+4.	Masukkan nanas, cabe rawit dan tomat.\n
+5.	Jika ikan sudah matang, tambahkan daun kemangi dan daun bawang. Aduk sebentar, matikan.\n
+</string>
+    <string name="palembang4"><b>Bahan-bahan</b>\n\n
+1.	1/2 Kg udang hitam \n
+2.	6 siung bawang merah \n
+3.	3 siung bawang putih \n
+4.	1 sdt ketumbar \n
+5.	3 buah kemiri \n
+6.	2 sdt tepung maizena \n
+7.	1 bks santan (saya pakai yg besar) \n
+8.	secukupnya cabai merah keriting \n
+9.	1 bgks mie kuning (bisa diganti mie apa saja) \n
+10.	1 bgks tauge (selera) \n
+11.	sesuai selera kucai dan bawang goreng (pelengkap) \n
+12.	1 butir telur rebus \n
+<b>Langkah</b>\n\n
+1.	Rebus kulit dan kepala udang untuk dibikin kaldu\n
+2.	Potong potong badan udang kecil kecil untuk isi kuahnya\n
+3.	Rebus mie, telur dan tauge. lalu sisihkan\n
+4.	Haluskan semua bumbu\n
+5.	Tumis semua bumbu, jika sudah matang, tambahkan air rebusan kepala dan kulit udang\n
+6.	Jika sudah matang, masukkan udang\n
+7.	Masukkan santan\n
+8.	Jika rasa sudah oke, masukkan tepung maizena yg sudah di encerkan\n
+9.	Koreksi rasa\n
+10.	Siap disajikan\n
+</string>
+    <string name="palembang5"><b>Bahan-bahan</b>\n\n
+untuk 5 porsi \n
+1.	500 gr Ikan patin \n
+2.	Jeruk nipis untuk melumuri ikan \n
+3.	Iris Bumbu \n
+4.	8 butir Bawang merah \n
+5.	4 butir Bawang putih \n
+6.	2 ruas jari Kunyit \n
+7.	1 ruas jari Jahe \n
+8.	3 ruas jari lengkuas \n
+9.	Daun bawang (resep asli si gak ada, biar manis keliatannya) \n
+10.	Bumbu Cemplung \n
+11.	Serai \n
+12.	Salam \n
+13.	Cabe rawit merah \n
+14.	1 buah Tomat \n
+15.	2 buah Asam kandis \n
+16.	secukupnya Gula Garam \n
+17.	Air secukupnya kalo saya 600 ml \n
+18.	Minyak untuk menumis \n
+<b>Langkah</b>\n\n
+1.	Sebenarnya tinggal direbus semua bumbu bersama air. Tapi saya suka ditumis dulu lebih menggugah selera.\n
+2.	Tumis bumbu iris kecuali daun bawang dan serai, salam sampai harum\n
+3.	Masukkan air\n
+4.	Masukan asam kandis, gula, garam dan rawit merah(kalo saya rawit merah direbus terpisah soalnya biar bocah bisa makan)\n
+5.	Setelah mendidih masukan ikan (ikan sebelumnya sudah dicuci dan dilumuri jeruk nipis ya biar gak bau)\n
+6.	Masukan tomat dan daun bawang\n
+7.	Siap disajikan\n
+</string>
+    <string name="palembang6"><b>Bahan-bahan</b>\n\n
+1.	15 butir telur \n
+2.	2 bks kecil vanilli \n
+3.	1/2 kaleng susu \n
+4.	500 gr gula pasir \n
+5.	1/4 kaleng syrup marjan melon (bs di skip) \n
+6.	2 sdm tepung terigu \n
+7.	150 gr margarine \n
+8.	margarine untuk olesan \n
+<b>Langkah</b>\n\n
+1.	Lelehkan margarine, sisihkan, lalu Kocok telur, gula, vanilli, sampai tercampur saja\n
+2.	Masukkan susu, sirup melon, margarine aduk sampai rata.\n
+3.	Olesi loyang dengan margarine n tabur dengan tepung terigu. Panaskan oven dan beri arang di atas oven. Masukkan adonan 1sendok sayur ke loyang, masak dgn api atas n bawah selama 5 menit, matikan api bawah. Jika atasnya sdh berwarna kecoklatan, keluarkan loyang, olesi dengan margarin n kempeskan bagian2 yg meletup2 dengan menggunakan centong nasi, tuang lagi adonan, begitu seterusnya sampai adonan habis dan masak.\n
+</string>
+    <string name="palembang7"><b>Bahan-bahan</b>\n\n
+40 porsi \n
+1.	500 gr Ikan Tenggiri \n
+2.	350-400 gr Sagu tani merk liauw tjoei kang \n
+3.	200-250 ml Air Es \n
+4.	4 siung Bawang Putih(biar gk amis) \n
+5.	secukupnya garam \n
+<b>Langkah</b>\n\n
+1.	Halus kan Ikan tenggiri + Air Es (blender)\n
+2.	Haluskan Bawang Putih + garam\n
+3.	Campurkan ikan yang sudah digiling + bawang putih halus \n
+4.	nanti jadi nya gak trlalu asin lg(jangan di uleni dengan tangan biar gak alot keras)\n
+5.	Lalu siapkan talenan untuk membentuk pempek di beri sagu sedikit di talenan agar tidak lengket(adonan memang lembek ya agak susah di bentuk tp kalau di talenan di kasih sagu nanti bisa di bentuk sendiri)\n
+6.	Lalu bentuk pempek sesuai selera kalau saya jd pempek lenjer kalau mau jd pempek isi telur sagu nya di tambah lagi agar bisa di bentuk\n
+7.	Lalu setelah itu siap kan panci isi air + minyak goreng 3 sdm, lalu setelah air mendidih masukkan pempek yang sudah di cetak.tunggu sampai pempek mengapung yg artinya pempek sudah matang,lalu angkat\n
+8.	Nb: pempeknya di aduk sama spatula atau centong nasi,jangan di uleni pakai tangan nanti pempeknya keras/alot.dan adonan memang lembek ya. Jd jangan heran,jangan di tambah sagu lg.tp tarok sagunya waktu mau membentuk pempek biar gak lengket\n
+</string>
+    <string name="palembang8"><b>Bahan-bahan</b>\n\n
+1/2 kg tekwan \n
+1.	1/4 kg Udang giling (bisa diganti daging kepiting halus) \n
+2.	3 liter Air \n
+3.	Bumbu halus : \n
+4.	10 siung bawang merah \n
+5.	7 siung bawang putih \n
+6.	1 sdt merica bubuk \n
+7.	Bahan pelengkap : \n
+8.	minyak sayur utk menumis \n
+9.	secukupnya bengkuang iris (diiris korek api tp tebal) \n
+10.	secukupnya jamur kuping \n
+11.	secukupnya sedap malam \n
+12.	daun seledri iris (taburan) \n
+13.	bawang goreng (taburan) \n
+14.	seasoning : \n
+15.	secukupnya garam gula \n
+16.	1 sdm kecap asin \n
+<b>Langkah</b>\n\n
+1.	Didihkan air\n
+2.	Tumis bumbu halus sampai benar2 matang dan harum. Setelah itu tambahkan sedikit air lalu masukkan udang giling aduk cepat sampai tercerai berai.\n
+3.	Masukkan tumisan ke dalam air mendidih. Kecilkan api, dan tutup panci agar kuah benar2 menghasilkan kaldu udang yg enak *cirinya kuah menjadi berwarna merah\n
+4.	Masukkan irisan bengkuang, diamkan sementara\n
+5.	Masukkan kembali jamur kuping dan bunga sedap malam.\n
+6.	Koreksi rasa. Tambahkan garam, gula dan kecap asin\n
+7.	Sajikan kuah tekwan dengan taburan daun seledri, bawang goreng, mie soun dan jika penyuka rasa asam pedas bisa ditambahkan perasan air jeruk kunci dan sambal rawit.\n
+</string>
+    <string name="palembang9"><b>Bahan-bahan</b>\n\n
+1.	bahan laksan : \n
+2.	1 kg ikan giling \n
+3.	1 kg tepung sagu \n
+4.	4 butir telur \n
+5.	750 ltr air \n
+6.	secukupnya garam \n
+7.	bahan kuah laksan \n
+8.	5 siung bawang merah, haluskan \n
+9.	3 siung bawang butih, haluskan \n
+10.	1 sdt ketumbar, haluskan \n
+11.	3 butir kemiri, haluskan \n
+12.	1/4 kg santan \n
+13.	3 batang bace merah, haluskan \n
+14.	1,5 ltr air \n
+15.	secukupnya garam, penyedap \n
+16.	bawang goreng \n
+<b>Langkah</b>\n\n
+1.	Larutkan garam ke dalam air, lalu campur kan pada ikan giling\n
+2.	Tambahkan telur pada ikan terrsebut\n
+3.	Campurkan tepung sagu pada ikan, aduk rata (ingat jangan terlalu lama diaduk, aduklah sekedar adonan dapat dipegang)\n
+4.	Kemudian ambil sebagian adonan ke dalam nampan lebar yang ditaburi tepung sagu\n
+5.	Uleni adonan di atas nampan hingga kalis (samapi adonan tidak lengket di tangan lagi), uleni adonan sembari sesekali ditambah tepung sagu sampai kalis. Perhatian! Uleni dengan santai dan lembut, jangan terlalu keras atau terlalu lama cukup sampai adonan tidak lengket di tangan, agar laksan tidak mentah di tengah atau keras\n
+6.	Kemudian bentuk adonan bulat memanjang, lalu pipihkan sedikit, ulangi sampai semua adonan diuleni.\n
+7.	Setelah adonan siap, rebus air sebanyak 3-4 liter untuk merebus adonan laksan, tambahkan 3 sendok makan minyak adar adonan tidak lengket saat direbus.\n
+8.	Rebus sampai semua adonan mengambang, lalu angkat, tiriskan\n
+9.	Potong-potong laksan yang sudah dingin. Selebar 3 jari\n
+10.	Cara membuat kuah laksan : Tumis semua bimbu halus sampai harum. Masukan 1,5 ltr air ke dalam tumisan. Masukan udang, aduk rata. Setelah air mendidih masukan santan kental sambil di aduk. Masukan laksan yang sudah dipotong-potong, Kuah harus terus diaduk agar santan tidak pecah sampai mendidih, kemudian matikan kompor dan taburi bawang goring. Laksan siap dihidangkan! 😅 jika suka pedas bisa ditambah sambal.\n
+</string>
+    <string name="palembang10"><b>Bahan-bahan</b>\n\n
+8 porsi \n
+1.	bahan bahan \n
+2.	200 gram tepung beras rosebrand \n
+3.	1/2 sdt garam (sesuai selera) \n
+4.	600 ml air \n
+5.	1 sdm minyak goreng \n
+6.	750 ml santan (Tingkat kekentalan sesuai selera) \n
+7.	4 siung bawang merah \n
+8.	2 siung bawang putih \n
+9.	1 batang serai \n
+10.	1 lembar daun salam \n
+11.	1 cm jahe \n
+12.	200 gram udang / ikan yang dihaluskan \n
+13.	sedikit ketumbar \n
+<b>Langkah</b>\n\n
+1.	Buat adonan burgo. campurkan tepung beras + garam + air.\n
+2.	Panaskan kukusan untuk mengukus burgo. bisa menggunakan loyang aluminiun untuk mengukusnya. oleskan minyak pada loyang agar tidak lengket. tuang beberapa centong adonan pada loyang n jangan terlalu tebal. kukus sekitar 3 menit dgn tutup kukusan yg telah ditutupi serbet.\n
+3.	Setelah 3 menit, angkat adonan dan lepaskan dari loyang. langsung gulung adonan saat masih panas. oleskan minyak pada loyang jika diperlukan. ulangi terus mengukus adonan hingga habis. adonan yg hendak dituang untuk dikukus sebaiknya diaduk terlebih dahulu, karena tepung beras mudah mengendap.\n
+4.	Membuat kuah. haluskan bumbu bumbu seperti bawang merah + bawang putih + ketumbar + jahe. serai cukup digeprak saja.\n
+5.	Tumis bumbu + daun salam dengan sedikit minyak. masukkan udang / ikan yang telah dihaluskan. masukkan santan + garam + penyedap. masak hingga matang.\n
+6.	Untuk membuat sambal cukup haluskan bawang merah + bawang putih + cabai merah (bisa ditambah cabai rawit utk yg hobi pedas). tumis dgn sedikit minyak sampai harum.\n
+7.	Penyajian : iris tipis2 gulungan burgo. siram kuah diatasnya. taburi bawang goreng + daun seledri. sajikan dengan sambal.\n
+</string>
+
+
+
+
+    <string name="daftar">daftar</string>
+    <string name="profil">profil</string>
+    <string name="tentang">tentang</string>
+    <string name="textview">textView</string>
+    <string name="tampilangambar">tampilangambar</string>
+    <string name="About">about</string>
+</resources>
